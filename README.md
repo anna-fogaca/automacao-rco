@@ -1,4 +1,4 @@
-# AUTOMAÇÃO - RCO SEED-PR
+# AUTOMAÇÃO - RCO SEED-PR (EM DESENVOLVIMENTO - FASE INICIAL DE CRIAÇÃO)
 Realiza a busca de notas dentro do sistema de Registro de Classe Online (RCO-SEED-PR) para fazer uma listagem de alunos com média a escolha do professor. Terá a função de gerar um relatório de alunos ABAIXO da média (NOTA < 5,9) e um relatório de alunos ACIMA DA MÉDIA (NOTA > 6,0). 
 # Data de atualização do projeto: 06/10/2024
 # Funções
